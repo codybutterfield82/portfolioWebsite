@@ -1,0 +1,10 @@
+body {
+    background: url(blackBG.jpg);
+}
+
+main {
+    font-size: 2em;
+    text-align: center;
+    height: 90.5vh;
+    line-height: 80vh;
+}
